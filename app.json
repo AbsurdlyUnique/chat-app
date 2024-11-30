@@ -1,0 +1,7 @@
+{
+  "apiName": "ChatApp",
+  "description": "A real-time chat application built with Crow, Boost, and libpqxx.",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "license": "MIT"
+}
